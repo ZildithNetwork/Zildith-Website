@@ -73,3 +73,9 @@ body {
 .img-rounded {
   border-radius: 4px;
 }
+
+.staff-img {
+  display: block;
+  margin: auto;
+  width: 100px;
+}
