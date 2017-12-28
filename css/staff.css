@@ -29,7 +29,7 @@ hr{
 
 .schema{
   padding: 1rem;
-  background: #eee;
+  background: #fff;
 }
 
 .item{
@@ -54,7 +54,7 @@ hr{
 }
 
 .item .vertical-line{
-  background: #fff;
+  background: #000;
 }
 
 hr.staff{
